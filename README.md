@@ -1,6 +1,6 @@
 Hi, my name is Ibrahim. I am a computer science student at the University of Michigan.
 Currently, I am interested in back-end development. I have experience in C++, C, and Python.
-I’m looking to collaborate on any projects related to computer architecture, computer secruity, and automation.
+I’m looking to collaborate on any projects related to computer architecture and automation.
 
 Contact me: ibrauf@umich.edu
 
